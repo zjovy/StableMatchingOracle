@@ -8,7 +8,6 @@ The Stable Matching Oracle is a project focused on solving the stable matching p
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -37,15 +36,6 @@ You can use the Stable Matching Oracle to test and evaluate stable matching algo
 
 1. Examine the provided code and algorithms to understand the implementation.
 2. Run the test suite to evaluate the correctness and efficiency of matching algorithms.
-
-## Contributing
-
-We welcome contributions to the Stable Matching Oracle project. If you have ideas for improving the implementation, adding new algorithms, or enhancing the testing suite, please consider contributing. Here's how:
-
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Submit a pull request, and we'll review your contribution.
 
 ## License
 
